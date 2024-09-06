@@ -171,6 +171,7 @@ This is a VR mini-game based on Unity and SteamVR, and it is also a personal pro
 - **问题6**：VR真机里截好的图，无法导入到电脑中。
   - **解决方案**：下载个PICO的APP，然后可以获取截图。
 
-#视频  
+## 视频  
+
 https://github.com/user-attachments/assets/7f4ae594-37e7-4caf-92b3-c6c2ab3f245d
 
